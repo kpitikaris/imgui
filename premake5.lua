@@ -22,6 +22,7 @@ project "ImGui"
 		"imstb_textedit.h",
 		"imstb_truetype.h",
 		"imgui_demo.cpp",
+		"imgui_tables.cpp",
 		"backends/imgui_impl_dx12.cpp",
 		"backends/imgui_impl_dx12.h",
 		"backends/imgui_impl_win32.cpp",
