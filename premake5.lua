@@ -23,17 +23,6 @@ project "ImGui"
 		"imstb_truetype.h",
 		"imgui_demo.cpp",
 		"imgui_tables.cpp",
-		"backends/imgui_impl_dx12.cpp",
-		"backends/imgui_impl_dx12.h",
-		"backends/imgui_impl_win32.cpp",
-		"backends/imgui_impl_win32.h",
-		"backends/imgui_impl_glfw.cpp",
-		"backends/imgui_impl_glfw.h",
-		"backends/imgui_impl_glut.cpp",
-		"backends/imgui_impl_glut.h",
-		"backends/imgui_impl_opengl3.h",
-		"backends/imgui_impl_opengl3.cpp",
-		"backends/imgui_impl_opengl3_loader.h"
 	}
 
 	filter "system:windows"
